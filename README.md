@@ -12,56 +12,56 @@ With a strong foundation in **Django**, **Laravel**, and **FastAPI**, I focus on
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" />
+      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
       <br /><b>Laravel</b>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django" />
+      <img src="https://skillicons.dev/icons?i=django" width="45" height="45" alt="Django" />
       <br /><b>Django</b>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" />
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" />
       <br /><b>FastAPI</b>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
       <br /><b>MySQL</b>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase/NoSQL" />
-      <br /><b>NoSQL/Firestore</b>
+      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase/NoSQL" />
+      <br /><b>NoSQL</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=py" width="45" height="45" alt="Python" />
       <br /><b>Python</b>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" />
       <br /><b>PHP</b>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" alt="GCP" />
-      <br /><b>Cloud Arch.</b>
+      <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="GCP" />
+      <br /><b>Cloud</b>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
+      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" />
       <br /><b>REST APIs</b>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
       <br /><b>Version Control</b>
     </td>
   </tr>
 </table>
 
-#### 🔍 Core Competencies
+#### 🔍 Technical Specializations
 * **Backend Frameworks:** Laravel (PHP), Django (Python), FastAPI.
-* **Cloud & Architecture:** Google Cloud Platform (GCP), Firebase Functions, Serverless Logic.
 * **Database Management:** Relational (MySQL, PostgreSQL) & NoSQL (Firebase Realtime DB, Firestore).
 * **Security & Auth:** JWT Authentication, Laravel Sanctum, Role-Based Access Control (RBAC).
-* **Development Practices:** Agile Methodology, Backend Testing, Clean Code Architecture, RESTful API Design.
+* **Tools & DevOps:** Google Cloud Platform (GCP), Firebase Functions, Git/GitHub, VS Code.
+* **Development Practices:** Agile Methodology, Backend Testing, Clean Code Architecture.
 
 ---
 
@@ -80,7 +80,7 @@ With a strong foundation in **Django**, **Laravel**, and **FastAPI**, I focus on
 
 ---
 
-### 📂 Featured Projects
+### 📂 Strategic Projects
 
 * **🏥 EvoHealth (Centralized Patient Management)**
     * *Stack: Django, FastAPI, Firebase NoSQL*
@@ -92,10 +92,6 @@ With a strong foundation in **Django**, **Laravel**, and **FastAPI**, I focus on
     * Engineered player enrollment, batch management, and automated fee structures.
     * Focused on high-concurrency data handling for player attendance and leave tracking.
 
-* **🍋 LittleLemon Restaurant App**
-    * *Stack: Django, MySQL, REST API*
-    * Built a comprehensive full-stack app featuring menu management, customer booking systems, and a data-rich admin dashboard.
-
 * **📝 QuirkTasker API**
     * *Stack: Laravel, Sanctum Auth*
     * Created a production-grade task management API with layered architecture and secure token-based user management.
@@ -105,17 +101,9 @@ With a strong foundation in **Django**, **Laravel**, and **FastAPI**, I focus on
 ### 🎓 Education & Certifications
 
 * 🎓 **Bachelor of Computer Science** – University of Central Punjab (2021 – 2025)
-    * *Minor in Software Engineering*
-* 🎖️ **Meta Back-End Development** – Specialization (Meta via Coursera)
-* 🎖️ **Microsoft AI Product Manager** – Specialization (Microsoft via Coursera)
+* 🎖️ **Meta Back-End Development** – Specialization (Meta)
+* 🎖️ **Microsoft AI Product Manager** – Specialization (Microsoft)
 * 🎖️ **Learn Firebase** – Scrimba
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Code-With-Mavia&show_icons=true&theme=transparent" alt="Maawiah's GitHub Stats" />
-</p>
 
 ---
 
@@ -123,16 +111,16 @@ With a strong foundation in **Django**, **Laravel**, and **FastAPI**, I focus on
 
 <p align="left">
   <a href="https://linkedin.com/in/maawiah-qaiser-10793722b/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Code-With-Mavia" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:maviaqaiser09@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://personal-portfolio-alpha-navy59.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
