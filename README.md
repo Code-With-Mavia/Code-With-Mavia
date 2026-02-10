@@ -1,11 +1,13 @@
 # 👋 Hi, I'm Maawiah Qaiser
 ### Backend Engineer | API Architect | Scalable Systems Expert
 
-I am a dedicated **Backend Developer** focused on building scalable, secure, and high-performance server-side applications. Currently, I am contributing to production-grade systems at **CricksLab**, specializing in RESTful API design and database optimization.
+I am a results-driven **Backend Developer** with a passion for architecting scalable, secure, and maintainable server-side applications. Currently, I am driving backend innovation at **CricksLab**, where I design high-performance RESTful APIs and optimize complex database schemas to support production-grade ecosystems.
+
+With a strong foundation in **Django**, **Laravel**, and **FastAPI**, I focus on building the "brains" of applications—ensuring data integrity, system security, and seamless integration between cross-functional teams.
 
 ---
 
-### 🛠 Tech Stack & Expertise
+### 🛠 Technical Ecosystem
 
 <table align="center">
   <tr>
@@ -41,7 +43,7 @@ I am a dedicated **Backend Developer** focused on building scalable, secure, and
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" alt="GCP" />
-      <br /><b>Cloud Architecture</b>
+      <br /><b>Cloud Arch.</b>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
@@ -49,51 +51,71 @@ I am a dedicated **Backend Developer** focused on building scalable, secure, and
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
-      <br /><b>Git Control</b>
+      <br /><b>Version Control</b>
     </td>
   </tr>
 </table>
+
+#### 🔍 Core Competencies
+* **Backend Frameworks:** Laravel (PHP), Django (Python), FastAPI.
+* **Cloud & Architecture:** Google Cloud Platform (GCP), Firebase Functions, Serverless Logic.
+* **Database Management:** Relational (MySQL, PostgreSQL) & NoSQL (Firebase Realtime DB, Firestore).
+* **Security & Auth:** JWT Authentication, Laravel Sanctum, Role-Based Access Control (RBAC).
+* **Development Practices:** Agile Methodology, Backend Testing, Clean Code Architecture, RESTful API Design.
 
 ---
 
 ### 💼 Professional Experience
 
 #### **Backend Developer | CricksLab**
-*October 2025 – Present | Lahore, Pakistan*
-* **API Development:** Architected robust REST APIs using **Laravel** and **PHP**.
-* **Database Optimization:** Designed **MySQL** schemas and optimized queries for production-grade cricket management systems.
-* **Collaboration:** Partnered with frontend and mobile teams for seamless API integration and logic debugging.
+*October 2025 – Present | Lahore, Pakistan (On-site)*
+* **API Excellence:** Developing production-grade REST APIs using **Laravel** to manage complex sports data and user interactions.
+* **Database Engineering:** Designing and normalizing **MySQL** schemas to reduce query latency and improve data retrieval speeds.
+* **Systems Integration:** Collaborating with mobile and frontend developers to ensure 100% API compatibility and smooth user journeys.
+* **Optimization:** Continuous debugging and logic refinement to enhance system stability and performance.
+
+#### **Dispatcher | AMPAK Dispatch Services**
+*February 2024 – July 2024 | Lahore, Pakistan*
+* Coordinated logistics and route planning, optimizing communication protocols between service providers and clients—honing professional problem-solving and documentation skills.
 
 ---
 
 ### 📂 Featured Projects
 
 * **🏥 EvoHealth (Centralized Patient Management)**
-  * *Built with: Django, Firebase, FastAPI*
-  * Multi-role hospital system featuring **AI-powered EHR summarization**.
-  * Integrated **Firebase NoSQL** (Realtime DB & Firestore) for real-time patient record management.
+    * *Stack: Django, FastAPI, Firebase NoSQL*
+    * Developed a high-performance system featuring **AI-powered EHR summarization**. 
+    * Implemented secure **FastAPI** endpoints and real-time record management using Firebase.
   
 * **🏏 CricksLab Academy Management**
-  * *Built with: Laravel, PHP, MySQL*
-  * Developed player enrollment, attendance tracking, and fee management modules.
-  * Optimized **RESTful APIs** to ensure high performance and data integrity.
+    * *Stack: Laravel, PHP, MySQL*
+    * Engineered player enrollment, batch management, and automated fee structures.
+    * Focused on high-concurrency data handling for player attendance and leave tracking.
 
 * **🍋 LittleLemon Restaurant App**
-  * *Built with: Django, MySQL, REST API*
-  * Full-stack solution for menu management, customer bookings, and administrative control.
+    * *Stack: Django, MySQL, REST API*
+    * Built a comprehensive full-stack app featuring menu management, customer booking systems, and a data-rich admin dashboard.
 
 * **📝 QuirkTasker API**
-  * *Built with: Laravel, PHP, MySQL*
-  * Production-ready task API using **Sanctum** for secure **JWT/Token** authentication and role-based access.
+    * *Stack: Laravel, Sanctum Auth*
+    * Created a production-grade task management API with layered architecture and secure token-based user management.
 
 ---
 
-### 🎓 Qualifications & Certifications
+### 🎓 Education & Certifications
 
-* 🎓 **BS in Computer Science** – University of Central Punjab (2021 – 2025)
-* 🎖️ **Meta Back-End Development** – Specialization (Coursera)
-* 🎖️ **Microsoft AI Product Manager** – Specialization (Coursera)
+* 🎓 **Bachelor of Computer Science** – University of Central Punjab (2021 – 2025)
+    * *Minor in Software Engineering*
+* 🎖️ **Meta Back-End Development** – Specialization (Meta via Coursera)
+* 🎖️ **Microsoft AI Product Manager** – Specialization (Microsoft via Coursera)
 * 🎖️ **Learn Firebase** – Scrimba
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Code-With-Mavia&show_icons=true&theme=transparent" alt="Maawiah's GitHub Stats" />
+</p>
 
 ---
 
