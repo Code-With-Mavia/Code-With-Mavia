@@ -1,109 +1,58 @@
-# 👋 Hi, I'm Maawiah Qaiser
-### Backend Engineer | API Architect | Scalable Systems Expert
+## 👋 Maawiah Qaiser
+### Senior Backend Engineer | API Architect | Scalable Systems Expert
 
-I am a results-driven **Backend Developer** with a passion for architecting scalable, secure, and maintainable server-side applications. Currently, I am driving backend innovation at **CricksLab**, where I design high-performance RESTful APIs and optimize complex database schemas to support production-grade ecosystems.
-
-With a strong foundation in **Django**, **Laravel**, and **FastAPI**, I focus on building the "brains" of applications—ensuring data integrity, system security, and seamless integration between cross-functional teams.
+Backend Specialist with an obsession for high-performance server-side architecture. Currently engineering production-grade ecosystems at **CricksLab**. I transform complex business logic into scalable **RESTful APIs** using **Laravel**, **Django**, and **FastAPI**.
 
 ---
 
-### 🛠 Technical Ecosystem
+### 🛠️ Core Technical Arsenal
 
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-      <br /><b>Laravel</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=django" width="45" height="45" alt="Django" />
-      <br /><b>Django</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" />
-      <br /><b>FastAPI</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
-      <br /><b>MySQL</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase/NoSQL" />
-      <br /><b>NoSQL</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=py" width="45" height="45" alt="Python" />
-      <br /><b>Python</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" />
-      <br /><b>PHP</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="GCP" />
-      <br /><b>Cloud</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" />
-      <br /><b>REST APIs</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
-      <br /><b>Version Control</b>
-    </td>
-  </tr>
-</table>
-
-#### 🔍 Technical Specializations
-* **Backend Frameworks:** Laravel (PHP), Django (Python), FastAPI.
-* **Database Management:** Relational (MySQL, PostgreSQL) & NoSQL (Firebase Realtime DB, Firestore).
-* **Security & Auth:** JWT Authentication, Laravel Sanctum, Role-Based Access Control (RBAC).
-* **Tools & DevOps:** Google Cloud Platform (GCP), Firebase Functions, Git/GitHub, VS Code.
-* **Development Practices:** Agile Methodology, Backend Testing, Clean Code Architecture.
+| Category | Specialized Technologies |
+| :--- | :--- |
+| **Frameworks** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![NoSQL](https://img.shields.io/badge/NoSQL-Firestore-orange?style=flat-square) |
+| **Cloud/DevOps** | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Security** | ![JWT](https://img.shields.io/badge/JWT-Authentication-black?style=flat-square) ![Sanctum](https://img.shields.io/badge/Laravel-Sanctum-red?style=flat-square) |
 
 ---
 
-### 💼 Professional Experience
+### 💼 Professional Impact
 
 #### **Backend Developer | CricksLab**
-*October 2025 – Present | Lahore, Pakistan (On-site)*
-* **API Excellence:** Developing production-grade REST APIs using **Laravel** to manage complex sports data and user interactions.
-* **Database Engineering:** Designing and normalizing **MySQL** schemas to reduce query latency and improve data retrieval speeds.
-* **Systems Integration:** Collaborating with mobile and frontend developers to ensure 100% API compatibility and smooth user journeys.
-* **Optimization:** Continuous debugging and logic refinement to enhance system stability and performance.
+*October 2025 – Present • Lahore, Pakistan*
+> Developing the backbone for a global-scale Cricket Academy Management System.
+* **Architecture:** Architected high-concurrency **REST APIs** using Laravel/PHP for player tracking and batch management.
+* **Optimization:** Engineered complex **MySQL schemas**, reducing query latency and optimizing relational data for academy batch systems.
+* **Full-Cycle Dev:** Spearheaded backend logic improvements and mission-critical debugging for production-grade releases.
 
 #### **Dispatcher | AMPAK Dispatch Services**
-*February 2024 – July 2024 | Lahore, Pakistan*
-* Coordinated logistics and route planning, optimizing communication protocols between service providers and clients—honing professional problem-solving and documentation skills.
+*Feb 2024 – July 2024 • Logistics & Operations*
+* Optimized high-volume logistics and route planning through rigorous record documentation and real-time coordination.
 
 ---
 
 ### 📂 Strategic Projects
 
-* **🏥 EvoHealth (Centralized Patient Management)**
-    * *Stack: Django, FastAPI, Firebase NoSQL*
-    * Developed a high-performance system featuring **AI-powered EHR summarization**. 
-    * Implemented secure **FastAPI** endpoints and real-time record management using Firebase.
-  
-* **🏏 CricksLab Academy Management**
-    * *Stack: Laravel, PHP, MySQL*
-    * Engineered player enrollment, batch management, and automated fee structures.
-    * Focused on high-concurrency data handling for player attendance and leave tracking.
+#### 🏥 **EvoHealth** | *Centralized Patient Ecosystem*
+* **Tech:** Django, FastAPI, Firebase NoSQL, AI Integration.
+* **Impact:** Built a multi-role hospital system with **AI-powered EHR summarization**. Integrated real-time record synchronization using Firebase NoSQL.
 
-* **📝 QuirkTasker API**
-    * *Stack: Laravel, Sanctum Auth*
-    * Created a production-grade task management API with layered architecture and secure token-based user management.
+#### 🏏 **CricksLab Academy Management** | *Production-Grade System*
+* **Tech:** Laravel, PHP, MySQL.
+* **Impact:** Implemented full-scale player enrollment, automated fee structures, and attendance tracking systems. Optimized for high performance and data integrity.
+
+#### 📝 **QuirkTasker API** | *Layered API Architecture*
+* **Tech:** Laravel, Sanctum, RBAC.
+* **Impact:** Developed a secure task-prioritization API featuring **JWT/Token authentication** and structured role-based access control.
 
 ---
 
-### 🎓 Education & Certifications
-
-* 🎓 **Bachelor of Computer Science** – University of Central Punjab (2021 – 2025)
-* 🎖️ **Meta Back-End Development** – Specialization (Meta)
-* 🎖️ **Microsoft AI Product Manager** – Specialization (Microsoft)
-* 🎖️ **Learn Firebase** – Scrimba
+### 🎓 Qualifications & Honors
+* **Bachelor of Computer Science** | University of Central Punjab (2021–2025)
+* **Meta Back-End Development** | Specialization (Meta)
+* **Microsoft AI Product Manager** | Specialization (Microsoft)
+* **Firebase Expert Certification** | Scrimba
 
 ---
 
