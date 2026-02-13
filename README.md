@@ -68,7 +68,7 @@ Backend Specialist with an obsession for high-performance server-side architectu
   <a href="mailto:maviaqaiser09@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[https://personal-portfolio-alpha-navy59.vercel.app](https://portfolio-taupe-one-51.vercel.app/)/" target="_blank">
+  <a href="https://portfolio-taupe-one-51.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
