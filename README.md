@@ -62,8 +62,6 @@ Currently engineering backend systems at **CricksLab**.
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="48" />
 </p>
 
-<sub>NoSQL • Firestore • Relational Modeling • Query Optimization • Data Integrity</sub>
-
 ---
 
 ### ☁️ DevOps & Cloud
