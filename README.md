@@ -1,77 +1,157 @@
-## 👋 Maawiah Qaiser
-### Associate Backend Engineer | API Architect | Scalable Systems Expert
-
-Backend Specialist with an obsession for high-performance server-side architecture. Currently engineering production-grade ecosystems at **CricksLab**. I transform complex business logic into scalable **RESTful APIs** using **Laravel**, **Django**, and **FastAPI**.
-
----
-
-### 🛠️ Core Technical Arsenal
-
-| Category | Specialized Technologies |
-| :--- | :--- |
-| **Frameworks** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![NoSQL](https://img.shields.io/badge/NoSQL-Firestore-orange?style=flat-square) |
-| **Cloud/DevOps** | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| **Security** | ![JWT](https://img.shields.io/badge/JWT-Authentication-black?style=flat-square) ![Sanctum](https://img.shields.io/badge/Laravel-Sanctum-red?style=flat-square) |
-
----
-
-### 💼 Professional Impact
-
-#### **Backend Developer | CricksLab**
-*October 2025 – Present • Lahore, Pakistan*
-> Developing the backbone for a global-scale Cricket Academy Management System.
-* **Architecture:** Architected high-concurrency **REST APIs** using Laravel/PHP for player tracking and batch management.
-* **Optimization:** Engineered complex **MySQL schemas**, reducing query latency and optimizing relational data for academy batch systems.
-* **Full-Cycle Dev:** Spearheaded backend logic improvements and mission-critical debugging for production-grade releases.
-
-#### **Dispatcher | AMPAK Dispatch Services**
-*Feb 2024 – July 2024 • Logistics & Operations*
-* Optimized high-volume logistics and route planning through rigorous record documentation and real-time coordination.
-
----
-
-### 📂 Strategic Projects
-
-#### 🏥 **EvoHealth** | *Centralized Patient Ecosystem*
-* **Tech:** Django, FastAPI, Firebase NoSQL, AI Integration.
-* **Impact:** Built a multi-role hospital system with **AI-powered EHR summarization**. Integrated real-time record synchronization using Firebase NoSQL.
-
-#### 🏏 **CricksLab Academy Management** | *Production-Grade System*
-* **Tech:** Laravel, PHP, MySQL.
-* **Impact:** Implemented full-scale player enrollment, automated fee structures, and attendance tracking systems. Optimized for high performance and data integrity.
-
-#### 📝 **QuirkTasker API** | *Layered API Architecture*
-* **Tech:** Laravel, Sanctum, RBAC.
-* **Impact:** Developed a secure task-prioritization API featuring **JWT/Token authentication** and structured role-based access control.
-
----
-
-### 🎓 Qualifications & Honors
-* **Bachelor of Computer Science** | University of Central Punjab (2021–2025)
-* **Meta Back-End Development** | Specialization (Meta)
-* **Microsoft AI Product Manager** | Specialization (Microsoft)
-* **Firebase Expert Certification** | Scrimba
-
----
-
-### 🤝 Connect & Collaborate
+# 👋 Maawiah Qaiser
+### Backend Engineer • Distributed Systems • API Architecture
 
 <p align="left">
-  <a href="https://linkedin.com/in/maawiah-qaiser-10793722b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Code-With-Mavia" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:maviaqaiser09@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://portfolio-taupe-one-51.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://github.com/Code-With-Mavia">
+    <img src="https://komarev.com/ghpvc/?username=Code-With-Mavia&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
 ---
-*"Great backend systems aren’t just built — they’re architected."*
+
+## 🚀 About
+
+Backend Engineer specializing in **scalable systems**, **high-performance APIs**, and **production-grade backend architecture**.
+
+I build systems that are:
+- ⚡ Fast under real-world load  
+- 🧱 Clean and maintainable  
+- 📈 Designed to scale  
+
+Currently engineering backend systems at **CricksLab**.
+
+---
+
+## 🌐 Connect & Portfolio
+
+<p align="left">
+  <a href="https://maawiah-qaiser.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
+  <a href="https://linkedin.com/in/maawiah-qaiser-10793722b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/Code-With-Mavia">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:maviaqaiser09@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## ⚙️ Tech Stack
+
+### 🧠 Backend Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,django,fastapi" />
+</p>
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,cpp" />
+</p>
+
+### 🗄️ Databases & Data Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="48" />
+</p>
+
+<sub>NoSQL • Firestore • Relational Modeling • Query Optimization • Data Integrity</sub>
+
+---
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,gcp,azure,git,github" />
+</p>
+
+---
+
+### 🔐 Security & Authentication
+<p>
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="45" />
+  <img src="https://skillicons.dev/icons?i=laravel" />
+  <img src="https://cdn.simpleicons.org/auth0/EB5424" height="45" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="45" alt="API" />
+</p>
+
+---
+
+## 💼 Experience
+
+### **Backend Engineer — CricksLab**
+*Oct 2025 – Present • Lahore, Pakistan*
+
+- Designed and deployed **high-concurrency REST APIs** in production  
+- Engineered optimized **MySQL schemas** for performance and efficiency  
+- Built backend systems for:
+  - Player management  
+  - Batch systems  
+  - Fee automation  
+- Improved **system stability under real-world load**  
+
+---
+
+## 🏗️ Projects
+
+### 🏥 EvoHealth — Centralized Healthcare Backend
+**Django • FastAPI • Firebase • AI**
+
+- Built a **multi-role healthcare ecosystem**  
+- Integrated **AI-powered EHR summarization**  
+- Implemented **real-time synchronization with Firebase**  
+- Designed scalable backend services  
+
+---
+
+### 🏏 CricksLab Academy Platform
+**Laravel • MySQL**
+
+- Developed full backend system for academy operations  
+- Implemented:
+  - Enrollment  
+  - Attendance  
+  - Billing systems  
+- Optimized for **performance and consistency**  
+
+---
+
+### 📝 QuirkTasker API
+**Laravel • Sanctum • RBAC**
+
+- Built secure API with **JWT-based authentication**  
+- Implemented **role-based access control**  
+- Designed modular backend architecture  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Code-With-Mavia&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-With-Mavia&theme=tokyonight" />
+</p>
+
+---
+
+## 🎓 Education
+
+**BS Computer Science**  
+University of Central Punjab (2021–2025)
+
+---
+
+## 📜 Certifications
+
+- Meta Back-End Developer Specialization  
+- Microsoft AI Product Manager Specialization  
+- Firebase Certification — Scrimba  
+
+---
+
+## 🧠 Engineering Philosophy
+
+> *"Great backend systems aren’t just built — they’re architected."*
