@@ -2,11 +2,15 @@
 ### Backend Engineer • Distributed Systems • API Architecture
 
 <p align="left">
+  <!-- Profile Views -->
   <a href="https://github.com/Code-With-Mavia">
-    <img src="https://komarev.com/ghpvc/?username=Code-With-Mavia&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=Code-With-Mavia&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
-</p>
 
+  <!-- Followers -->
+  <a href="https://github.com/Code-With-Mavia?tab=followers">
+    <img src="https://img.shields.io/github/followers/Code-With-Mavia?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
+  </a>
 ---
 
 ## 🚀 About
