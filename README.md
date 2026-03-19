@@ -11,8 +11,7 @@
   <a href="https://github.com/Code-With-Mavia?tab=followers">
     <img src="https://img.shields.io/github/followers/Code-With-Mavia?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
   </a>
----
-
+  
 ## 🚀 About
 
 Backend Engineer specializing in **scalable systems**, **high-performance APIs**, and **production-grade backend architecture**.
