@@ -51,10 +51,14 @@ Currently engineering backend systems at **CricksLab**.
   <img src="https://skillicons.dev/icons?i=laravel,django,fastapi" />
 </p>
 
+---
+
 ### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,php,cpp" />
 </p>
+
+---
 
 ### 🗄️ Databases & Data Systems
 <p>
