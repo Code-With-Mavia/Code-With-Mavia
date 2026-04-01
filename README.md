@@ -102,16 +102,6 @@ Currently engineering backend systems at **CricksLab**.
 
 ## 🏗️ Projects
 
-### 🏥 EvoHealth — Centralized Healthcare Backend
-**Django • FastAPI • Firebase • AI**
-
-- Built a **multi-role healthcare ecosystem**  
-- Integrated **AI-powered EHR summarization**  
-- Implemented **real-time synchronization with Firebase**  
-- Designed scalable backend services  
-
----
-
 ### 🏏 CricksLab Academy Platform
 **Laravel • MySQL**
 
