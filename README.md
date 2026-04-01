@@ -136,7 +136,6 @@ Currently engineering backend systems at **CricksLab**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Code-With-Mavia&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-With-Mavia&theme=tokyonight" />
 </p>
 
