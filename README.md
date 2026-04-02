@@ -55,7 +55,7 @@ Currently engineering backend systems at **CricksLab**.
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,php" />
 </p>
 
 ---
