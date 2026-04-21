@@ -30,18 +30,18 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://maawiah-qaiser.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/maawiah-qaiser-10793722b/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Code-With-Mavia" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:maviaqaiser09@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -49,32 +49,49 @@
 
 ## ⚙️ Languages & Tools
 
-### 🧠 Backend Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,django,fastapi" height="48"/>
-</p>
-
-### 💻 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,python" height="48"/>
-</p>
-
-### 🗄️ Databases & Data Systems
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,redis" height="48"/>
-</p>
-
-### ☁️ DevOps & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,gcp,azure,git,github" height="48"/>
-</p>
-
-### 🔐 Security & Authentication
-<p align="left">
-  <img src="https://cdn.simpleicons.org/jsonwebtokens/ffffff" height="45" alt="JWT"/>
-  <img src="https://cdn.simpleicons.org/auth0/EB5424" height="45" alt="Auth0"/>
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="45" alt="Postman"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="120"><strong>🧠 Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>💻 Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🗄️ Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>☁️ DevOps</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🔐 Security</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -119,18 +136,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Code-With-Mavia&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Code-With-Mavia/Code-With-Mavia/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-With-Mavia&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
