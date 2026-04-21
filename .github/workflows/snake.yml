@@ -12,11 +12,10 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: Code-With-Mavia
+          token: ${{ secrets.PERSONAL_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
