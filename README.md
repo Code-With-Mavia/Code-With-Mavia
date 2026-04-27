@@ -128,10 +128,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-With-Mavia&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-With-Mavia&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 📈 Contribution Graph
