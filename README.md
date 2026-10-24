@@ -4,9 +4,9 @@
 <p align="center">Lahore, Pakistan · Open to backend roles and freelance API projects</p>
 
 <p align="center">
-  <a href="https://maawiah-qaiser.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  <a href="https://maawiahqaiser.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
   <a href="https://linkedin.com/in/maawiah-qaiser-10793722b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
